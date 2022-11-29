@@ -1,0 +1,5 @@
+name: minePlug
+description: "Minecraft plugin that mines for you quickly 100 nodes"
+version: 0.2
+command: "\minen"
+title: "Mining Plugin"
